@@ -12,15 +12,15 @@ I'm a 15-year-old software developer passionate about crafting cool projects and
 
 ## Skills
 
-- Programming Languages: [C++, Java, Python, Docker, and Swift]
+- Programming Languages: C++, Java, Python, Docker, and Swift
 - Web Development: HTML, CSS, JavaScript, etc.
-- Tools, Technologies, Software: [XCode, Microsoft VS Code, x86, Arm, RSIC, PowerPC. iOS, macOS, Linux, Windows, and Android]
+- Tools, Technologies, Software: XCode, Microsoft VS Code, x86, Arm, RSIC, PowerPC. iOS, macOS, Linux, Windows, and Android
 
 
 ## Get in Touch
 
 - LinkedIn: (https://www.linkedin.com/in/jj-bridges-642365235/)
-- Twitter: ([link-to-twitter](https://twitter.com/itsyeboimickey))
+- Twitter: (https://twitter.com/itsyeboimickey)
 - Email: bridgesjr08@icloud.com
 
 Let's connect and collaborate on exciting projects together!
