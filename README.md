@@ -1,6 +1,6 @@
 # Hi there, I'm JJ or Itsyeboimickey! 👋
 
-I'm a 15-year-old software developer passionate about crafting cool projects and learning new technologies. Welcome to my GitHub profile!
+I'm a 17-year-old software developer passionate about crafting cool projects and learning new technologies. Welcome to my GitHub profile!
 
 ## About Me
 
